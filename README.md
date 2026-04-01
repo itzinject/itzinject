@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=1nject&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Every%20day%20projects%20%3A)&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=itzinject&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=itzinject">
@@ -6,10 +6,9 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
-
 ## 📌 About Me
-I am fun!
+- I am fun!
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -18,12 +17,15 @@ I am fun!
   </a>
   <img src="https://streak-stats.demolab.com/?user=itzinject&theme=radical&hide_border=true&cache_seconds=86400" alt="itzinject's GitHub Streak" width="49%" />
 </p>
+
+
+## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=itzinject&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="1nject's GitHub Trophies" />
+  <a href="https://github.com/itzinject">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itzinject&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=itzinject&theme=radical&radius=10" alt="itzinject's Activity Graph" />
-</p>
+
 
 
 ## 🛠️ Languages & Tools
