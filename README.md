@@ -9,9 +9,7 @@
 <img src="none" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- about me :)
-- about me :)about me :)
-
+I am fun!
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
