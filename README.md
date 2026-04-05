@@ -7,6 +7,7 @@ mc dev, web dev, and vencord plugin hobbyist. not on the vencord team, just do i
 - Web developer
 - Vencord plugin developer (for fun)
 - Check out my plugins at [1nject's Vencord Plugins](https://github.com/1nject-s-Vencord-Plugins)
+### Working on: My library (soon will be required for plugins)
 
 <p align="center">
   <a href="https://github.com/itzinject">
